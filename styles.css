@@ -8,9 +8,8 @@ h1 {
 }
 
 h1,h2 {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  text-align: center;
-
+  font-family: Georgia, 'Georgia', Georgia, serif;
+  text-align:center;
 }
 
 P {
